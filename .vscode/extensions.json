@@ -1,0 +1,24 @@
+{
+    "recommendations": [
+		"andreabbondanza.ignoregit",
+		"bungcip.better-toml",
+		"codezombiech.gitignore",
+		"davidanson.vscode-markdownlint",
+		"eamodio.gitlens",
+		"github.vscode-pull-request-github",
+		"ibm.output-colorizer",
+		"icrawl.discord-vscode",
+		"jasonnutter.vscode-codeowners",
+		"knisterpeter.vscode-github",
+		"oderwat.indent-rainbow",
+		"pflannery.vscode-versionlens",
+		"piotrpalarz.vscode-gitignore-generator",
+		"shan.code-settings-sync",
+		"shd101wyy.markdown-preview-enhanced",
+		"usernamehw.errorlens",
+		"wwm.better-align",
+		"xshrim.txt-syntax",
+		"ymotongpoo.licenser",
+		"yzhang.markdown-all-in-one",
+	]
+}
